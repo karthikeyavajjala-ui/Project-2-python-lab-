@@ -1,0 +1,8 @@
+hello this is the line i written first time in file execution time 
+and also this line includes in it 
+now next line wont appear bcz i will exit from it 
+exit 
+stop
+'exit'
+python -u "c:\Users\karth\python\Lab manual\tempCodeRunnerFile.py"
+stop

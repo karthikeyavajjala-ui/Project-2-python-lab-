@@ -1,0 +1,13 @@
+text='joy university'
+print("\n Converted string:")
+print(text.upper())
+print("\n Converted string:")
+print(text.lower())
+print("\n Converted string:")
+print(text.title())
+print("\n Converted string:")
+print(text.swapcase())
+print("\n Converted string:")
+print(text.capitalize())
+print("\n Original string")
+print(text)

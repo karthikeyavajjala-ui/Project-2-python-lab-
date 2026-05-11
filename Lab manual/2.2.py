@@ -1,0 +1,9 @@
+h1="Name"
+h2="Age"
+h3="Location"
+s1=h1.center(20,'-')
+s2=h2.center(20,'-')
+s3=h3.center(20,'-')
+print(s1)
+print(s2)
+print(s3)
